@@ -1,0 +1,60 @@
+GroupId;GroupLanguageId;GroupName;ParentGroups;ShopSorting ;ParentGroupsSorting;GroupSmallImage;GroupNavigationShowInMenu;GroupNavigationShowInSiteMap;GroupNavigationClickable;GroupInheritCategoryFieldsFromParent;Shops;GroupDescription
+GR001;LANG1;Mueble de baño;;1;1;Images/Gamma_ImagesGroups/gr001.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;Para que escoger un mueble de baño no sea un quebradero de cabeza, en este apartado os proponemos algunas ideas. Los muebles de baño no son sólo el lugar donde guardamos los enseres de higiene de toda la familia… Los muebles de baño son una pieza más de la decoración de nuestro cuarto de baño, por eso se valora que tengan un diseño innovador a la par que práctico.
+GR002;LANG1;Conjuntos de baño;GR001;2;2;Images/Gamma_ImagesGroups/gr002.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;Los conjuntos de baño son las tres piezas clave que darán ese toque personal y de estilo a tu cuarto de baño. Estos conjuntos suelen estar compuestos por el mueble de baño, el lavabo y el espejo. Con estos tres elementos puedes configurarte un conjunto de baño que refleje tu personalidad. Aquí encontrarás conjuntos de baño prácticos y completos para tu baño.
+GR003;LANG1;Muebles de baño;GR001;3;3;Images/Gamma_ImagesGroups/gr003.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;Para que escoger un mueble de baño no sea un quebradero de cabeza, en este apartado os proponemos algunas ideas. Los muebles de baño no son sólo el lugar donde guardamos los enseres de higiene de toda la familia… Los muebles de baño son una pieza más de la decoración de nuestro cuarto de baño, por eso se valora que tengan un diseño innovador a la par que práctico.
+GR004;LANG1;Muebles de baño auxiliares;GR001;4;4;Images/Gamma_ImagesGroups/gr004.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;Si te falta almacenaje en el cuarto de baño, los muebles de baño auxiliares son la solución. En este apartado podrás ver altos para colgar, columnas, books… Lo mejor de los muebles auxiliares es que son versátiles y puedes colocarlos en el hueco del baño donde mejor queden. Almacenaje extra para el sinfín de utensilios que siempre tenemos en el baño.
+GR005;LANG1;Espejos de baño;GR001;5;5;Images/Gamma_ImagesGroups/gr005.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;"Seas o no coquet@, el espejo de baño es un elemento imprescindible en el cuarto de baño. Aquí os proponemos un sinfín de posibilidades para que podáis escoger el que más os guste. El diseño de los espejos de baño ha dado un salto y ya no sólo son cuadrados o rectangulares; ahora los puedes encontrar redondos, con trasera de madera, con iluminación incorporada... ¡infinidad de posibilidades para escoger!"
+GR006;LANG1;Apliques de baño;GR001;6;6;Images/Gamma_ImagesGroups/gr006.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;En esta sección podrás ver apliques de baño funcionales, modernos, clásicos... seguro que encuentras el que mejor queda en tu baño! Escoger los apliques de baño es todo un reto: no sólo hay que tener en cuenta el diseño que más nos guste, también hay que considerar dónde irán colocados, la potencia de la bombilla… Y es que la iluminación en el cuarto de baño es muy importante. Porque en el fondo tod@s somos presumid@s!
+GR007;LANG1;Sanitario;;7;7;Images/Gamma_ImagesGroups/gr007.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;Una de las piezas clave de todos los cuartos de baño son los sanitarios. Y precisamente por eso no es fácil escogerlos. Por eso en este apartado te proponemos las tendencias más vanguardistas, modelos que reinventan los clásicos de toda la vida y algunos sanitarios con reminiscencia industrial.
+GR008;LANG1;Lavabos;GR007;8;8;Images/Gamma_ImagesGroups/gr008.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;"No des más vueltas; aquí encontrarás el lavabo que estás buscando. Puedes elegir entre modelos de formas suaves y redondeadas; lavabos rectliníneos más actuales y modelos sobre encimera. En porcelana, vidrio templado o en mármol. Todos los detalles cuidados al máximo para que el lavabo que elijas encaje con tu estilo y personalidad."
+GR009;LANG1;Inodoros;GR007;9;9;Images/Gamma_ImagesGroups/gr009.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;"¿Estás pensando en cambiar el inodoro de tu baño? Pues prepárate para encontrarlo en esta sección. Carenado a pared para que no tengas que limpiar ningún hueco; suspendido, por si necesitas dar sensación de amplitud a tu baño… todos con cisterna de doble descarga para ahorrar agua. ¡Tenemos el inodoro que necesitas!"
+GR010;LANG1;Bidés;GR007;10;10;Images/Gamma_ImagesGroups/gr010.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;Los bidés han experimentado la misma evolución en cuanto a diseño que los inodoros. Aquí puedes encontrar bidés que te recordarán a los clásicos antiguos y bidés con formas más rectilíneas que juegan a la tendencia industrial tan de moda. Echa un vistazo y verás cómo encuentras el bidé que quedará mejor en tu cuarto de baño.
+GR011;LANG1;Urinarios;GR007;11;11;Images/Gamma_ImagesGroups/gr011.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;Los urinarios son piezas más destinadas a hostelería que a uso doméstico. En este apartado te mostramos una propuesta atrevida, diferente, original y descarada. Un urinario que no deja indiferente a nadie y que te sacará los colores.
+GR012;LANG1;Platos de ducha*;;12;12;Images/Gamma_ImagesGroups/gr012.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;"Te lo ponemos fácil y en este apartado encontrarás una selección de platos de ducha. Una de las características más importante de un plato de ducha de calidad es que sea antideslizante; para evitar sustos y resbalones! Platos de resina, de metacrilato, adaptables a la medida del espacio de tu baño... Texturas y colores para que puedas escoger; cuadradors, rectangulares o con forma angular... ¡Elige el tuyo!"
+GR013;LANG1;Platos de ducha rectangulares*;GR012;13;13;Images/Gamma_ImagesGroups/gr013.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;"Los platos de ducha rectangulares suelen ser los más comunes. Si estás buscando uno con esta forma para tu cuarto de baño, esta sección te interesa. Hemos seleccionado nuestros mejores platos de ducha con forma rectangular para que tú sólo tengas que decidir cuál te gusta más. Fabricados en resina, en metacrilato o en porcelana; con diferentes grosores; lisos o con agradables texturas al tacto... ¡No sabrás cuál elegir!"
+GR014;LANG1;Platos de ducha cuadrados*;GR012;14;14;Images/Gamma_ImagesGroups/gr014.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;"¿Buscas un plato de ducha cuadrado, resistente y de calidad? Entonces estás en el apartado adecuado. Encuentra el plato de ducha cuadrado que mejor se adapte al espacio de tu baño; con válvulas de 90mm para facilitar el desagüe y con texturas agradables al tacto de tus piés. Seguro que tenemos el que estás buscando."
+GR015;LANG1;Platos de ducha angulares*;GR012;15;15;Images/Gamma_ImagesGroups/gr015.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;"En esta sección encontrarás una selección de platos de ducha angulares. Si tu baño es de tamaño reducido y sólo dispones de una esquina para colocar la ducha, este tipo de plato es la solución. Los tienes en diferentes materiales resistentes y duraderos; para que te dure muchos años!"
+GR016;LANG1;Accesorios baño*;;16;16;Images/Gamma_ImagesGroups/gr016.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR017;LANG1;Portarrollos*;GR016;17;17;Images/Gamma_ImagesGroups/gr017.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR018;LANG1;Escobilleros*;GR016;18;18;Images/Gamma_ImagesGroups/gr018.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR019;LANG1;Toalleros*;GR016;19;19;Images/Gamma_ImagesGroups/gr019.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR020;LANG1;Dispensadores de jabón*;GR016;20;20;Images/Gamma_ImagesGroups/gr020.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR021;LANG1;Jaboneras*;GR016;21;21;Images/Gamma_ImagesGroups/gr021.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR022;LANG1;Perchas de baño*;GR016;22;22;Images/Gamma_ImagesGroups/gr022.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR023;LANG1;Limpiacristales*;GR016;23;23;Images/Gamma_ImagesGroups/gr023.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR024;LANG1;Papeleras*;GR016;24;24;Images/Gamma_ImagesGroups/gr024.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR025;LANG1;Básculas*;GR016;25;25;Images/Gamma_ImagesGroups/gr025.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR026;LANG1;Textil para el baño*;GR016;26;26;Images/Gamma_ImagesGroups/gr026.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR027;LANG1;Cestos*;GR016;27;27;Images/Gamma_ImagesGroups/gr027.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR028;LANG1;Espejos de aumento*;GR016;28;28;Images/Gamma_ImagesGroups/gr028.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR029;LANG1;Vasos y portacepillos*;GR016;29;29;Images/Gamma_ImagesGroups/gr029.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR030;LANG1;Almacenaje*;GR016;30;30;Images/Gamma_ImagesGroups/gr030.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR031;LANG1;Seguridad en el baño*;GR016;31;31;Images/Gamma_ImagesGroups/gr031.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR032;LANG1;Portasecadores*;GR016;32;32;Images/Gamma_ImagesGroups/gr032.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR033;LANG1;Mamparas ducha-bañera*;;33;33;Images/Gamma_ImagesGroups/gr033.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR034;LANG1;Mamparas para bañeras*;GR033;34;34;Images/Gamma_ImagesGroups/gr034.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR035;LANG1;Mamparas para ducha*;GR033;35;35;Images/Gamma_ImagesGroups/gr035.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR036;LANG1;Grifos de baño*;;36;36;Images/Gamma_ImagesGroups/gr036.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR037;LANG1;Complementos de grifería*;GR036;37;37;Images/Gamma_ImagesGroups/gr037.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR038;LANG1;Grifos de cocina*;GR036;38;38;Images/Gamma_ImagesGroups/gr038.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR039;LANG1;Grifos de lavabo*;GR036;39;39;Images/Gamma_ImagesGroups/gr039.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR040;LANG1;Grifos de bañera*;GR036;40;40;Images/Gamma_ImagesGroups/gr040.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR041;LANG1;Grifos de ducha*;GR036;41;41;Images/Gamma_ImagesGroups/gr041.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR042;LANG1;Grifos de bidé*;GR036;42;42;Images/Gamma_ImagesGroups/gr042.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR043;LANG1;Conjuntos de ducha*;GR036;43;43;Images/Gamma_ImagesGroups/gr043.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR044;LANG1;Grifos de ducha empotrables*;GR036;44;44;Images/Gamma_ImagesGroups/gr044.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR045;LANG1;Teleducha*;GR036;45;45;Images/Gamma_ImagesGroups/gr045.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR046;LANG1;Rociadores*;GR036;46;46;Images/Gamma_ImagesGroups/gr046.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR047;LANG1;Wellness*;;47;47;Images/Gamma_ImagesGroups/gr047.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR048;LANG1;Columnas de hidromasaje*;GR045;48;48;Images/Gamma_ImagesGroups/gr048.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR049;LANG1;Radiadores baño*;;49;49;Images/Gamma_ImagesGroups/gr049.jpg;TRUE;TRUE;TRUE;TRUE;SHOP13;
+GR050;LANG1;Fabricantes;;1;1;Images/Gamma_ImagesGroups/gr049.jpg;TRUE;TRUE;TRUE;TRUE;SHOP12;
+GR051;LANG1;Fabricante 1;GR050;2;2;Images/Gamma_ImagesGroups/gr049.jpg;TRUE;TRUE;TRUE;TRUE;SHOP12;
+GR052;LANG1;Fabricante 2;GR050;3;3;Images/Gamma_ImagesGroups/gr049.jpg;TRUE;TRUE;TRUE;TRUE;SHOP12;
+GR053;LANG1;Fabricante 3;GR050;4;4;Images/Gamma_ImagesGroups/gr049.jpg;TRUE;TRUE;TRUE;TRUE;SHOP12;
+GR054;LANG1;Distribuidores;;5;5;Images/Gamma_ImagesGroups/gr049.jpg;TRUE;TRUE;TRUE;TRUE;SHOP12;
+GR055;LANG1;Distribuidor 1;GR054;6;6;Images/Gamma_ImagesGroups/gr049.jpg;TRUE;TRUE;TRUE;TRUE;SHOP12;
+GR056;LANG1;Distribuidor 2;GR054;7;7;Images/Gamma_ImagesGroups/gr049.jpg;TRUE;TRUE;TRUE;TRUE;SHOP12;
+GR057;LANG1;Distribuidor 3;GR054;8;8;Images/Gamma_ImagesGroups/gr049.jpg;TRUE;TRUE;TRUE;TRUE;SHOP12;
+GR058;LANG1;Distribuidor 4;GR054;9;9;Images/Gamma_ImagesGroups/gr049.jpg;TRUE;TRUE;TRUE;TRUE;SHOP12;
+GR059;LANG1;Distribuidor 5;GR054;10;10;Images/Gamma_ImagesGroups/gr049.jpg;TRUE;TRUE;TRUE;TRUE;SHOP12;
